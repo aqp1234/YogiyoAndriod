@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/findimg"
+        android:enabled="true"
+        android:id="@+id/home"
+        android:title="Home" />
+    <item
+        android:icon="@drawable/findimg"
+        android:enabled="true"
+        android:id="@+id/heart"
+        android:title="Heart" />
+    <item
+        android:icon="@drawable/findimg"
+        android:enabled="true"
+        android:id="@+id/search"
+        android:title="Search" />
+    <item
+        android:icon="@drawable/findimg"
+        android:enabled="true"
+        android:id="@+id/orderhistory"
+        android:title="OrderHistory" />
+    <item
+        android:icon="@drawable/findimg"
+        android:enabled="true"
+        android:id="@+id/myyogiyo"
+        android:title="MyYogiyo" />
+</menu>
